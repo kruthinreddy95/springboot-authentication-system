@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("/")
     public String home() {
-        return "Authentication System Running Successfully!";
+        return "Running Successfully!";
     }
 
     @GetMapping("/hello")
