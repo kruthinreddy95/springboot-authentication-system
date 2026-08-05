@@ -1,4 +1,4 @@
-package com.kruthin.authentication_system.user;
+package com.kruthin.authentication_system.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
